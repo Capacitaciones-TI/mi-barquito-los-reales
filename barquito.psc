@@ -14,5 +14,5 @@ Algoritmo barquito
 	Escribir "Stella Artois"
 	Escribir "Corona"
 	
-	Escribir "Mi barquito viene cargado con marcas de celulares como: samsung"
+	Escribir "Mi barquito viene cargado con marcas de celulares como: samsung."
 FinAlgoritmo
