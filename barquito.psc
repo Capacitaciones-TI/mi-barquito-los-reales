@@ -12,7 +12,7 @@ Algoritmo barquito
 	
 	Escribir "Mi barquito viene cargado con marcas de cerveza como: Pilsener"
 	Escribir "Stella Artois"
-	Escribir "Corona"
+	Escribir "Bud Light"
 	
 	Escribir "Mi barquito viene cargado con marcas de celulares como: samsung."
 FinAlgoritmo
