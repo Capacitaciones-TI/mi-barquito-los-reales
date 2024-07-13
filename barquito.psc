@@ -5,7 +5,7 @@ Algoritmo barquito
 	Escribir "Subaru"
 	
 	Escribir "Mi barquito viene cargado de colores primarios como amarillo "
-	Escribir "Rojo"
+	Escribir "Azul"
 	
 	Escribir "Mi barquito viene cargado con marcas de cerveza como: Pilsener"
 	
