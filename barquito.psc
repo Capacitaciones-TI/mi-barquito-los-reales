@@ -6,7 +6,7 @@ Algoritmo barquito
 	
 	Escribir "Mi barquito viene cargado de colores primarios como amarillo "
 	Escribir "Azul"
-	Escribir " Rojo"
+	Escribir " verde"
 	
 	Escribir "Mi barquito viene cargado con marcas de cerveza como: Pilsener"
 	Escribir "Stella Artois"
